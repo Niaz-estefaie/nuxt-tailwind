@@ -3,9 +3,9 @@
 @import "tailwindcss/utilities";
 
 .dark-mode {
-    @apply text-white bg-green-olive;
+    @apply text-gray-100 bg-gray-800;
 }
 
 .light-mode {
-    @apply text-black bg-green-yellow;
+    @apply text-gray-800 bg-gray-100;
 }
